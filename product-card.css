@@ -12,7 +12,6 @@ html {
 body {
   font-size: 14px;
   margin: 0;
-  overflow: hidden;
 }
 #out-card {
   min-height: 100vh;
@@ -21,13 +20,11 @@ body {
   align-items: center;
   padding: 15px;
   background-color: #f3e7d8;
-  overflow: hidden;
 }
 #card {
   border-radius: 10px;
   min-height: 90vh;
   background-color: #ffffff;
-  overflow: hidden;
 }
 #top-section {
   width: 100%;
